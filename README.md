@@ -1,3 +1,3 @@
-### Rrepository to store Java language exercises.
+### Rrepository to store Java exercises.
 
 Day 1 - Constructor, overload, encapsulation.
